@@ -1,1 +1,1 @@
-# odin-recipies
+# Website for recipes based on Odin Project lesson
